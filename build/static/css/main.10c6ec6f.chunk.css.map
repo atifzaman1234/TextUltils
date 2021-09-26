@@ -1,0 +1,8 @@
+{
+   "version": 3,
+   "sources": ["webpack://src/App.css"],
+   "names": [],
+   "mappings": "AAAA,KACI,wBACJ",
+   "file": "main.10c6ec6f.chunk.css",
+   "sourcesContent": ["body {\r\n    background-color: rgb(241, 241, 241);\r\n}"]
+}
